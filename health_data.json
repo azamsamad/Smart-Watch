@@ -1,0 +1,947 @@
+[
+    {
+        "timestamp": "2026-03-26 13:16:40",
+        "heart_rate": 84,
+        "spo2": 98,
+        "temperature": 36.2,
+        "steps": 17
+    },
+    {
+        "timestamp": "2026-03-26 13:16:45",
+        "heart_rate": 80,
+        "spo2": 95,
+        "temperature": 36.7,
+        "steps": 21
+    },
+    {
+        "timestamp": "2026-03-26 13:16:50",
+        "heart_rate": 86,
+        "spo2": 96,
+        "temperature": 36.1,
+        "steps": 21
+    },
+    {
+        "timestamp": "2026-03-26 13:16:55",
+        "heart_rate": 65,
+        "spo2": 97,
+        "temperature": 36.2,
+        "steps": 23
+    },
+    {
+        "timestamp": "2026-03-26 13:17:00",
+        "heart_rate": 68,
+        "spo2": 96,
+        "temperature": 37.3,
+        "steps": 32
+    },
+    {
+        "timestamp": "2026-03-26 13:17:05",
+        "heart_rate": 82,
+        "spo2": 95,
+        "temperature": 36.0,
+        "steps": 50
+    },
+    {
+        "timestamp": "2026-03-26 13:17:10",
+        "heart_rate": 87,
+        "spo2": 94,
+        "temperature": 36.6,
+        "steps": 52
+    },
+    {
+        "timestamp": "2026-03-26 13:17:15",
+        "heart_rate": 64,
+        "spo2": 95,
+        "temperature": 37.4,
+        "steps": 69
+    },
+    {
+        "timestamp": "2026-03-26 13:17:20",
+        "heart_rate": 94,
+        "spo2": 100,
+        "temperature": 36.4,
+        "steps": 73
+    },
+    {
+        "timestamp": "2026-03-26 13:17:25",
+        "heart_rate": 78,
+        "spo2": 98,
+        "temperature": 37.4,
+        "steps": 91
+    },
+    {
+        "timestamp": "2026-03-26 13:17:30",
+        "heart_rate": 63,
+        "spo2": 97,
+        "temperature": 36.1,
+        "steps": 96
+    },
+    {
+        "timestamp": "2026-03-26 13:17:35",
+        "heart_rate": 92,
+        "spo2": 99,
+        "temperature": 36.1,
+        "steps": 108
+    },
+    {
+        "timestamp": "2026-03-26 13:17:40",
+        "heart_rate": 94,
+        "spo2": 97,
+        "temperature": 36.6,
+        "steps": 114
+    },
+    {
+        "timestamp": "2026-03-26 13:17:45",
+        "heart_rate": 94,
+        "spo2": 96,
+        "temperature": 37.0,
+        "steps": 134
+    },
+    {
+        "timestamp": "2026-03-26 13:17:50",
+        "heart_rate": 91,
+        "spo2": 96,
+        "temperature": 36.1,
+        "steps": 147
+    },
+    {
+        "timestamp": "2026-03-26 13:17:55",
+        "heart_rate": 68,
+        "spo2": 94,
+        "temperature": 36.2,
+        "steps": 165
+    },
+    {
+        "timestamp": "2026-03-26 13:18:00",
+        "heart_rate": 94,
+        "spo2": 96,
+        "temperature": 37.4,
+        "steps": 177
+    },
+    {
+        "timestamp": "2026-03-26 13:18:05",
+        "heart_rate": 64,
+        "spo2": 98,
+        "temperature": 36.3,
+        "steps": 178
+    },
+    {
+        "timestamp": "2026-03-26 13:18:10",
+        "heart_rate": 83,
+        "spo2": 99,
+        "temperature": 36.3,
+        "steps": 198
+    },
+    {
+        "timestamp": "2026-03-26 13:18:15",
+        "heart_rate": 97,
+        "spo2": 100,
+        "temperature": 36.5,
+        "steps": 198
+    },
+    {
+        "timestamp": "2026-03-26 13:18:20",
+        "heart_rate": 70,
+        "spo2": 96,
+        "temperature": 36.1,
+        "steps": 202
+    },
+    {
+        "timestamp": "2026-03-26 13:18:25",
+        "heart_rate": 77,
+        "spo2": 95,
+        "temperature": 36.3,
+        "steps": 215
+    },
+    {
+        "timestamp": "2026-03-26 13:18:30",
+        "heart_rate": 82,
+        "spo2": 95,
+        "temperature": 37.1,
+        "steps": 233
+    },
+    {
+        "timestamp": "2026-03-26 13:18:35",
+        "heart_rate": 75,
+        "spo2": 95,
+        "temperature": 36.2,
+        "steps": 244
+    },
+    {
+        "timestamp": "2026-03-26 13:18:40",
+        "heart_rate": 60,
+        "spo2": 100,
+        "temperature": 36.7,
+        "steps": 247
+    },
+    {
+        "timestamp": "2026-03-26 13:18:45",
+        "heart_rate": 84,
+        "spo2": 98,
+        "temperature": 37.1,
+        "steps": 253
+    },
+    {
+        "timestamp": "2026-03-26 13:18:50",
+        "heart_rate": 66,
+        "spo2": 99,
+        "temperature": 37.3,
+        "steps": 256
+    },
+    {
+        "timestamp": "2026-03-26 13:18:55",
+        "heart_rate": 79,
+        "spo2": 98,
+        "temperature": 36.6,
+        "steps": 262
+    },
+    {
+        "timestamp": "2026-03-26 13:19:00",
+        "heart_rate": 98,
+        "spo2": 99,
+        "temperature": 36.7,
+        "steps": 273
+    },
+    {
+        "timestamp": "2026-03-26 13:19:05",
+        "heart_rate": 62,
+        "spo2": 96,
+        "temperature": 36.6,
+        "steps": 274
+    },
+    {
+        "timestamp": "2026-03-26 13:19:10",
+        "heart_rate": 74,
+        "spo2": 97,
+        "temperature": 36.1,
+        "steps": 5
+    },
+    {
+        "timestamp": "2026-03-26 13:19:10",
+        "heart_rate": 71,
+        "spo2": 95,
+        "temperature": 36.4,
+        "steps": 274
+    },
+    {
+        "timestamp": "2026-03-26 13:19:15",
+        "heart_rate": 82,
+        "spo2": 95,
+        "temperature": 36.2,
+        "steps": 14
+    },
+    {
+        "timestamp": "2026-03-26 13:19:15",
+        "heart_rate": 75,
+        "spo2": 99,
+        "temperature": 36.4,
+        "steps": 282
+    },
+    {
+        "timestamp": "2026-03-26 13:19:20",
+        "heart_rate": 80,
+        "spo2": 99,
+        "temperature": 36.1,
+        "steps": 22
+    },
+    {
+        "timestamp": "2026-03-26 13:19:20",
+        "heart_rate": 85,
+        "spo2": 94,
+        "temperature": 36.3,
+        "steps": 299
+    },
+    {
+        "timestamp": "2026-03-26 13:19:25",
+        "heart_rate": 89,
+        "spo2": 97,
+        "temperature": 36.3,
+        "steps": 23
+    },
+    {
+        "timestamp": "2026-03-26 13:19:25",
+        "heart_rate": 90,
+        "spo2": 99,
+        "temperature": 37.1,
+        "steps": 307
+    },
+    {
+        "timestamp": "2026-03-26 13:19:30",
+        "heart_rate": 69,
+        "spo2": 95,
+        "temperature": 37.1,
+        "steps": 31
+    },
+    {
+        "timestamp": "2026-03-26 13:19:30",
+        "heart_rate": 92,
+        "spo2": 100,
+        "temperature": 37.1,
+        "steps": 313
+    },
+    {
+        "timestamp": "2026-03-26 13:19:35",
+        "heart_rate": 87,
+        "spo2": 99,
+        "temperature": 37.2,
+        "steps": 46
+    },
+    {
+        "timestamp": "2026-03-26 13:19:35",
+        "heart_rate": 81,
+        "spo2": 99,
+        "temperature": 36.7,
+        "steps": 324
+    },
+    {
+        "timestamp": "2026-03-26 13:19:40",
+        "heart_rate": 99,
+        "spo2": 95,
+        "temperature": 36.7,
+        "steps": 63
+    },
+    {
+        "timestamp": "2026-03-26 13:19:40",
+        "heart_rate": 94,
+        "spo2": 95,
+        "temperature": 37.3,
+        "steps": 333
+    },
+    {
+        "timestamp": "2026-03-26 13:19:45",
+        "heart_rate": 97,
+        "spo2": 95,
+        "temperature": 36.7,
+        "steps": 75
+    },
+    {
+        "timestamp": "2026-03-26 13:19:45",
+        "heart_rate": 65,
+        "spo2": 98,
+        "temperature": 36.8,
+        "steps": 345
+    },
+    {
+        "timestamp": "2026-03-26 13:19:50",
+        "heart_rate": 94,
+        "spo2": 94,
+        "temperature": 36.5,
+        "steps": 94
+    },
+    {
+        "timestamp": "2026-03-26 13:19:50",
+        "heart_rate": 66,
+        "spo2": 94,
+        "temperature": 36.1,
+        "steps": 347
+    },
+    {
+        "timestamp": "2026-03-26 13:19:55",
+        "heart_rate": 66,
+        "spo2": 97,
+        "temperature": 37.3,
+        "steps": 112
+    },
+    {
+        "timestamp": "2026-03-26 13:19:55",
+        "heart_rate": 66,
+        "spo2": 96,
+        "temperature": 37.4,
+        "steps": 359
+    },
+    {
+        "timestamp": "2026-03-26 13:20:00",
+        "heart_rate": 90,
+        "spo2": 97,
+        "temperature": 36.3,
+        "steps": 124
+    },
+    {
+        "timestamp": "2026-03-26 13:20:01",
+        "heart_rate": 84,
+        "spo2": 100,
+        "temperature": 37.4,
+        "steps": 363
+    },
+    {
+        "timestamp": "2026-03-26 13:20:05",
+        "heart_rate": 82,
+        "spo2": 100,
+        "temperature": 36.1,
+        "steps": 134
+    },
+    {
+        "timestamp": "2026-03-26 13:20:06",
+        "heart_rate": 85,
+        "spo2": 95,
+        "temperature": 36.9,
+        "steps": 379
+    },
+    {
+        "timestamp": "2026-03-26 13:20:10",
+        "heart_rate": 66,
+        "spo2": 98,
+        "temperature": 36.8,
+        "steps": 143
+    },
+    {
+        "timestamp": "2026-03-26 13:20:11",
+        "heart_rate": 85,
+        "spo2": 100,
+        "temperature": 36.2,
+        "steps": 379
+    },
+    {
+        "timestamp": "2026-03-26 13:20:15",
+        "heart_rate": 90,
+        "spo2": 99,
+        "temperature": 37.5,
+        "steps": 160
+    },
+    {
+        "timestamp": "2026-03-26 13:20:16",
+        "heart_rate": 75,
+        "spo2": 94,
+        "temperature": 36.2,
+        "steps": 384
+    },
+    {
+        "timestamp": "2026-03-26 13:20:20",
+        "heart_rate": 67,
+        "spo2": 97,
+        "temperature": 37.3,
+        "steps": 178
+    },
+    {
+        "timestamp": "2026-03-26 13:20:21",
+        "heart_rate": 92,
+        "spo2": 94,
+        "temperature": 36.1,
+        "steps": 384
+    },
+    {
+        "timestamp": "2026-03-26 13:20:25",
+        "heart_rate": 71,
+        "spo2": 98,
+        "temperature": 36.4,
+        "steps": 192
+    },
+    {
+        "timestamp": "2026-03-26 13:20:26",
+        "heart_rate": 93,
+        "spo2": 99,
+        "temperature": 37.4,
+        "steps": 384
+    },
+    {
+        "timestamp": "2026-03-26 13:20:30",
+        "heart_rate": 85,
+        "spo2": 94,
+        "temperature": 36.4,
+        "steps": 196
+    },
+    {
+        "timestamp": "2026-03-26 13:20:31",
+        "heart_rate": 98,
+        "spo2": 99,
+        "temperature": 36.7,
+        "steps": 394
+    },
+    {
+        "timestamp": "2026-03-26 13:20:35",
+        "heart_rate": 95,
+        "spo2": 100,
+        "temperature": 36.8,
+        "steps": 209
+    },
+    {
+        "timestamp": "2026-03-26 13:20:36",
+        "heart_rate": 87,
+        "spo2": 97,
+        "temperature": 36.2,
+        "steps": 404
+    },
+    {
+        "timestamp": "2026-03-26 13:20:40",
+        "heart_rate": 99,
+        "spo2": 99,
+        "temperature": 36.5,
+        "steps": 220
+    },
+    {
+        "timestamp": "2026-03-26 13:20:41",
+        "heart_rate": 99,
+        "spo2": 100,
+        "temperature": 36.2,
+        "steps": 422
+    },
+    {
+        "timestamp": "2026-03-26 13:20:45",
+        "heart_rate": 96,
+        "spo2": 96,
+        "temperature": 37.0,
+        "steps": 240
+    },
+    {
+        "timestamp": "2026-03-26 13:20:46",
+        "heart_rate": 98,
+        "spo2": 98,
+        "temperature": 36.6,
+        "steps": 426
+    },
+    {
+        "timestamp": "2026-03-26 13:20:50",
+        "heart_rate": 76,
+        "spo2": 98,
+        "temperature": 36.9,
+        "steps": 242
+    },
+    {
+        "timestamp": "2026-03-26 13:20:51",
+        "heart_rate": 84,
+        "spo2": 96,
+        "temperature": 37.0,
+        "steps": 440
+    },
+    {
+        "timestamp": "2026-03-26 13:20:55",
+        "heart_rate": 68,
+        "spo2": 95,
+        "temperature": 36.1,
+        "steps": 250
+    },
+    {
+        "timestamp": "2026-03-26 13:20:56",
+        "heart_rate": 80,
+        "spo2": 100,
+        "temperature": 37.5,
+        "steps": 460
+    },
+    {
+        "timestamp": "2026-03-26 13:21:00",
+        "heart_rate": 76,
+        "spo2": 99,
+        "temperature": 36.0,
+        "steps": 267
+    },
+    {
+        "timestamp": "2026-03-26 13:21:01",
+        "heart_rate": 68,
+        "spo2": 95,
+        "temperature": 37.4,
+        "steps": 475
+    },
+    {
+        "timestamp": "2026-03-26 13:21:05",
+        "heart_rate": 94,
+        "spo2": 94,
+        "temperature": 37.2,
+        "steps": 274
+    },
+    {
+        "timestamp": "2026-03-26 13:21:06",
+        "heart_rate": 63,
+        "spo2": 96,
+        "temperature": 37.1,
+        "steps": 492
+    },
+    {
+        "timestamp": "2026-03-26 13:21:10",
+        "heart_rate": 98,
+        "spo2": 100,
+        "temperature": 36.5,
+        "steps": 292
+    },
+    {
+        "timestamp": "2026-03-26 13:21:11",
+        "heart_rate": 67,
+        "spo2": 98,
+        "temperature": 37.0,
+        "steps": 512
+    },
+    {
+        "timestamp": "2026-03-26 13:21:15",
+        "heart_rate": 91,
+        "spo2": 94,
+        "temperature": 36.6,
+        "steps": 303
+    },
+    {
+        "timestamp": "2026-03-26 13:21:16",
+        "heart_rate": 70,
+        "spo2": 95,
+        "temperature": 36.5,
+        "steps": 527
+    },
+    {
+        "timestamp": "2026-03-26 13:21:20",
+        "heart_rate": 62,
+        "spo2": 99,
+        "temperature": 36.3,
+        "steps": 304
+    },
+    {
+        "timestamp": "2026-03-26 13:21:21",
+        "heart_rate": 63,
+        "spo2": 95,
+        "temperature": 36.5,
+        "steps": 534
+    },
+    {
+        "timestamp": "2026-03-26 13:21:25",
+        "heart_rate": 94,
+        "spo2": 96,
+        "temperature": 36.6,
+        "steps": 312
+    },
+    {
+        "timestamp": "2026-03-26 13:21:26",
+        "heart_rate": 99,
+        "spo2": 100,
+        "temperature": 37.1,
+        "steps": 549
+    },
+    {
+        "timestamp": "2026-03-26 13:21:30",
+        "heart_rate": 86,
+        "spo2": 96,
+        "temperature": 37.1,
+        "steps": 317
+    },
+    {
+        "timestamp": "2026-03-26 13:21:31",
+        "heart_rate": 65,
+        "spo2": 100,
+        "temperature": 36.2,
+        "steps": 565
+    },
+    {
+        "timestamp": "2026-03-26 13:21:35",
+        "heart_rate": 69,
+        "spo2": 96,
+        "temperature": 36.7,
+        "steps": 333
+    },
+    {
+        "timestamp": "2026-03-26 13:21:36",
+        "heart_rate": 93,
+        "spo2": 97,
+        "temperature": 37.0,
+        "steps": 579
+    },
+    {
+        "timestamp": "2026-03-26 13:21:40",
+        "heart_rate": 90,
+        "spo2": 100,
+        "temperature": 36.1,
+        "steps": 348
+    },
+    {
+        "timestamp": "2026-03-26 13:21:41",
+        "heart_rate": 82,
+        "spo2": 99,
+        "temperature": 37.4,
+        "steps": 586
+    },
+    {
+        "timestamp": "2026-03-26 13:21:45",
+        "heart_rate": 76,
+        "spo2": 94,
+        "temperature": 36.3,
+        "steps": 358
+    },
+    {
+        "timestamp": "2026-03-26 13:21:46",
+        "heart_rate": 80,
+        "spo2": 95,
+        "temperature": 36.1,
+        "steps": 590
+    },
+    {
+        "timestamp": "2026-03-26 13:21:50",
+        "heart_rate": 71,
+        "spo2": 96,
+        "temperature": 37.2,
+        "steps": 374
+    },
+    {
+        "timestamp": "2026-03-26 13:21:51",
+        "heart_rate": 78,
+        "spo2": 98,
+        "temperature": 36.5,
+        "steps": 602
+    },
+    {
+        "timestamp": "2026-03-26 13:21:55",
+        "heart_rate": 86,
+        "spo2": 94,
+        "temperature": 36.2,
+        "steps": 394
+    },
+    {
+        "timestamp": "2026-03-26 13:21:56",
+        "heart_rate": 65,
+        "spo2": 95,
+        "temperature": 36.3,
+        "steps": 622
+    },
+    {
+        "timestamp": "2026-03-26 13:22:00",
+        "heart_rate": 92,
+        "spo2": 98,
+        "temperature": 36.3,
+        "steps": 399
+    },
+    {
+        "timestamp": "2026-03-26 13:22:01",
+        "heart_rate": 70,
+        "spo2": 96,
+        "temperature": 36.8,
+        "steps": 624
+    },
+    {
+        "timestamp": "2026-03-26 13:22:05",
+        "heart_rate": 61,
+        "spo2": 99,
+        "temperature": 36.8,
+        "steps": 406
+    },
+    {
+        "timestamp": "2026-03-26 13:22:06",
+        "heart_rate": 62,
+        "spo2": 98,
+        "temperature": 36.6,
+        "steps": 628
+    },
+    {
+        "timestamp": "2026-03-26 13:22:10",
+        "heart_rate": 95,
+        "spo2": 100,
+        "temperature": 37.4,
+        "steps": 417
+    },
+    {
+        "timestamp": "2026-03-26 13:22:11",
+        "heart_rate": 68,
+        "spo2": 98,
+        "temperature": 37.1,
+        "steps": 645
+    },
+    {
+        "timestamp": "2026-03-26 13:22:15",
+        "heart_rate": 62,
+        "spo2": 95,
+        "temperature": 36.7,
+        "steps": 421
+    },
+    {
+        "timestamp": "2026-03-26 13:22:16",
+        "heart_rate": 76,
+        "spo2": 100,
+        "temperature": 37.1,
+        "steps": 664
+    },
+    {
+        "timestamp": "2026-03-26 13:22:21",
+        "heart_rate": 96,
+        "spo2": 97,
+        "temperature": 37.4,
+        "steps": 427
+    },
+    {
+        "timestamp": "2026-03-26 13:22:21",
+        "heart_rate": 72,
+        "spo2": 99,
+        "temperature": 36.8,
+        "steps": 683
+    },
+    {
+        "timestamp": "2026-03-26 13:22:26",
+        "heart_rate": 83,
+        "spo2": 99,
+        "temperature": 36.8,
+        "steps": 446
+    },
+    {
+        "timestamp": "2026-03-26 13:22:26",
+        "heart_rate": 66,
+        "spo2": 94,
+        "temperature": 36.4,
+        "steps": 686
+    },
+    {
+        "timestamp": "2026-03-26 13:22:31",
+        "heart_rate": 74,
+        "spo2": 100,
+        "temperature": 36.7,
+        "steps": 456
+    },
+    {
+        "timestamp": "2026-03-26 13:22:31",
+        "heart_rate": 84,
+        "spo2": 95,
+        "temperature": 36.2,
+        "steps": 693
+    },
+    {
+        "timestamp": "2026-03-26 13:22:36",
+        "heart_rate": 99,
+        "spo2": 100,
+        "temperature": 37.5,
+        "steps": 471
+    },
+    {
+        "timestamp": "2026-03-26 13:22:36",
+        "heart_rate": 95,
+        "spo2": 97,
+        "temperature": 36.1,
+        "steps": 709
+    },
+    {
+        "timestamp": "2026-03-26 13:22:41",
+        "heart_rate": 83,
+        "spo2": 99,
+        "temperature": 36.9,
+        "steps": 490
+    },
+    {
+        "timestamp": "2026-03-26 13:22:41",
+        "heart_rate": 63,
+        "spo2": 99,
+        "temperature": 36.1,
+        "steps": 721
+    },
+    {
+        "timestamp": "2026-03-26 13:22:46",
+        "heart_rate": 65,
+        "spo2": 100,
+        "temperature": 36.3,
+        "steps": 505
+    },
+    {
+        "timestamp": "2026-03-26 13:22:46",
+        "heart_rate": 81,
+        "spo2": 96,
+        "temperature": 36.0,
+        "steps": 736
+    },
+    {
+        "timestamp": "2026-03-26 13:22:51",
+        "heart_rate": 85,
+        "spo2": 99,
+        "temperature": 37.5,
+        "steps": 525
+    },
+    {
+        "timestamp": "2026-03-26 13:22:51",
+        "heart_rate": 100,
+        "spo2": 99,
+        "temperature": 37.0,
+        "steps": 749
+    },
+    {
+        "timestamp": "2026-03-26 13:22:56",
+        "heart_rate": 90,
+        "spo2": 96,
+        "temperature": 36.8,
+        "steps": 531
+    },
+    {
+        "timestamp": "2026-03-26 13:22:56",
+        "heart_rate": 70,
+        "spo2": 97,
+        "temperature": 37.3,
+        "steps": 769
+    },
+    {
+        "timestamp": "2026-03-26 13:23:01",
+        "heart_rate": 60,
+        "spo2": 98,
+        "temperature": 36.2,
+        "steps": 541
+    },
+    {
+        "timestamp": "2026-03-26 13:23:01",
+        "heart_rate": 62,
+        "spo2": 98,
+        "temperature": 37.5,
+        "steps": 776
+    },
+    {
+        "timestamp": "2026-03-26 13:23:06",
+        "heart_rate": 93,
+        "spo2": 99,
+        "temperature": 36.8,
+        "steps": 561
+    },
+    {
+        "timestamp": "2026-03-26 13:23:06",
+        "heart_rate": 80,
+        "spo2": 99,
+        "temperature": 36.1,
+        "steps": 786
+    },
+    {
+        "timestamp": "2026-03-26 13:23:11",
+        "heart_rate": 91,
+        "spo2": 97,
+        "temperature": 36.2,
+        "steps": 577
+    },
+    {
+        "timestamp": "2026-03-26 13:23:11",
+        "heart_rate": 61,
+        "spo2": 99,
+        "temperature": 37.3,
+        "steps": 803
+    },
+    {
+        "timestamp": "2026-03-26 13:23:16",
+        "heart_rate": 94,
+        "spo2": 95,
+        "temperature": 36.7,
+        "steps": 582
+    },
+    {
+        "timestamp": "2026-03-26 13:23:16",
+        "heart_rate": 97,
+        "spo2": 95,
+        "temperature": 37.2,
+        "steps": 805
+    },
+    {
+        "timestamp": "2026-03-26 13:23:21",
+        "heart_rate": 64,
+        "spo2": 99,
+        "temperature": 36.6,
+        "steps": 593
+    },
+    {
+        "timestamp": "2026-03-26 13:23:21",
+        "heart_rate": 96,
+        "spo2": 96,
+        "temperature": 36.3,
+        "steps": 820
+    },
+    {
+        "timestamp": "2026-03-26 13:23:26",
+        "heart_rate": 91,
+        "spo2": 99,
+        "temperature": 37.4,
+        "steps": 604
+    },
+    {
+        "timestamp": "2026-03-26 13:23:26",
+        "heart_rate": 98,
+        "spo2": 94,
+        "temperature": 36.6,
+        "steps": 825
+    },
+    {
+        "timestamp": "2026-03-26 13:23:31",
+        "heart_rate": 82,
+        "spo2": 94,
+        "temperature": 37.5,
+        "steps": 605
+    }
+]
